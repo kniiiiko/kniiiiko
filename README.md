@@ -1,5 +1,11 @@
 <div align="center">
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=88C0D0&center=true&vCenter=true&width=500&lines=Hi+I'm+Ji+Eun!"/>
+
+</div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kniiiiko&theme=nord-aurora)](https://git.io/streak-stats)
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
